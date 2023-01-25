@@ -1,11 +1,8 @@
-PAC-MAN NO TERMINAL
+# Pac-Man no terminal
 
-
-DESCRIÇÃO:
--> Este programa tem como objetivo principal implementar uma versão mais simplificada do jogo Pac-Man baseando-se
+<p> <b> Este programa tem como objetivo principal implementar uma versão mais simplificada do jogo Pac-Man baseando-se
 em princípios de orientação a objetos (OO). Além disso, a compilação e a geração de documentação serão efetuadas
-de forma automatizada por meio de um Makefile, e haverá testes unitários do jogo realizados com GoogleTest.
-
+de forma automatizada por meio de um Makefile, e haverá testes unitários do jogo realizados com GoogleTest. </b> </p>
 
 
 COMO COMPILAR E EXECUTAR:
