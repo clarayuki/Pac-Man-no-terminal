@@ -40,4 +40,9 @@ preciso rodar o seguinte comando: </p>
 make clean
 ```
 
+<p><b> Observação: O jogo é uma versão bem mais simplificada do Pac-man original e a "morte" do Pacman
+por um fantasma conta apenas quando o Pacman e o fantasma acabam caindo em uma mesma posição do labirinto.
+Ainda é preciso aprimorar o código para que o jogo acabe quando o Pacman e algum fantasma atravessem caminhos.
+</b></p>
+
 

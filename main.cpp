@@ -1,11 +1,9 @@
 /**
  * @file ep4.cpp
- * @author Clara Yuki Sano - 11809920
+ * @author Clara Yuki Sano 
  * @date 10/12/2022
  *
- * Este arquivo contém a main do jogo do Pac-Man (junto com os testes). Feito para 
- * o EP4 da matéria MAC0216 - Técnicas de Programação I no curso de Bacharelado de Ciência da 
- * Computação do Instituto de Matemática e Estatística da Universidade de São Paulo.
+ * Este arquivo contém a main do jogo do Pac-Man (junto com os testes). 
  */
 
 #include <iostream>

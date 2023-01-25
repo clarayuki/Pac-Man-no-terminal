@@ -1,12 +1,10 @@
 /**
  * @file Labirinto.h
- * @author Clara Yuki Sano - 11809920
+ * @author Clara Yuki Sano 
  * @date 10/12/2022
  *
  * Este arquivo define uma classe Labirinto que representa o labirinto (tabuleiro) onde ocorrerá
- * o jogo do Pac-Man. Feito para o EP4 da disciplina MAC0216 - Técnicas de Programação I 
- * no curso de Bacharelado de Ciência da Computação do Instituto de Matemática e 
- * Estatística da Universidade de São Paulo.
+ * o jogo do Pac-Man. 
  */
 
 #ifndef LABIRINTO_H

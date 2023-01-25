@@ -1,11 +1,9 @@
 /**
  * @file Arquivo.cpp
- * @author Clara Yuki Sano - 11809920
+ * @author Clara Yuki Sano 
  * @date 10/12/2022
  *
  * Este arquivo contém as definições dos métodos da classe Arquivo.
- * Feito para o EP4 da matéria MAC0216 - Técnicas de Programação I no curso de Bacharelado de Ciência da 
- * Computação do Instituto de Matemática e Estatística da Universidade de São Paulo.
  */
 
 #include "Arquivo.h"

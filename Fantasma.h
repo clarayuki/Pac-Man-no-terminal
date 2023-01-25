@@ -1,12 +1,10 @@
 /**
  * @file Fantasma.h
- * @author Clara Yuki Sano - 11809920
+ * @author Clara Yuki Sano 
  * @date 10/12/2022
  *
  * Este arquivo define uma classe Fantasma que representa personagens fantasmas
- * que estarão presentes no jogo do Pac-Man. Feito para o EP4 da matéria 
- * MAC0216 - Técnicas de Programação I no curso de Bacharelado de Ciência da 
- * Computação do Instituto de Matemática e Estatística da Universidade de São Paulo.
+ * que estarão presentes no jogo do Pac-Man.
  */
 
 #ifndef FANTASMA_H

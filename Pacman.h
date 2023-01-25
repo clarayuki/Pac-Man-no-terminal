@@ -1,12 +1,10 @@
 /**
  * @file Pacman.h
- * @author Clara Yuki Sano - 11809920
+ * @author Clara Yuki Sano 
  * @date 10/12/2022
  *
  * Este arquivo define uma classe Pacman que representa o personagem Pac-Man
- * que estará presentes no jogo. Feito para o EP4 da matéria 
- * MAC0216 - Técnicas de Programação I no curso de Bacharelado de Ciência da 
- * Computação do Instituto de Matemática e Estatística da Universidade de São Paulo.
+ * que estará presentes no jogo. 
  */
 
 #ifndef PACMAN_H
