@@ -16,7 +16,7 @@ de forma automatizada por meio de um Makefile, e haverá testes unitários do jo
 ```bash
 make all MODO=jogo LABIRINTO=labirinto1
 ```
-<p> OBS-> Existem 3 tabuleiros diferentes para jogar: labirinto1, labirinto2 e labirinto3. Para testar os outros labirintos, basta substituir sua numeração no comando. </p>
+<p> OBS-> Existem 2 tabuleiros diferentes para jogar: labirinto1 e labirinto2. Para testar os outros labirintos, basta substituir sua numeração no comando. </p>
 
 
 
