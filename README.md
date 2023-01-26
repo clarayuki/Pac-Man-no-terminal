@@ -26,20 +26,6 @@ make all MODO=jogo LABIRINTO=labirinto1
 make tests MODO=testes 
 ```
 
-
-## :open_file_folder: Gerar documentação e limpar os arquivos
-<p> O comando a seguir é responsável por gerar a documentação. </p>
-
-```bash
-make doc 
-```
-<p> Para limpar todos os arquivos gerados na compilação e na geração da documentação, é 
-preciso rodar o seguinte comando: </p>
-
-```bash
-make clean
-```
-
 <p><b> Observação: O jogo é uma versão bem mais simplificada do Pac-man original e a "morte" do Pacman
 por um fantasma conta apenas quando o Pacman e o fantasma acabam caindo em uma mesma posição do labirinto.
 Ainda é preciso aprimorar o código para que o jogo acabe quando o Pacman e algum fantasma atravessem caminhos.
