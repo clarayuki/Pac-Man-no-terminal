@@ -12,6 +12,7 @@ de forma automatizada por meio de um Makefile, e haverá testes unitários do jo
 
 ## 🔨 Como compilar e executar: 
 <p> Basta rodar o seguinte comando: </p>
+
 ```bash
 make all MODO=jogo LABIRINTO=labirinto1
 ```
