@@ -21,7 +21,7 @@ make all MODO=jogo LABIRINTO=labirinto1
 
 
 ## :computer: Testes 
-<p> Para compilar e executar os testes, é preciso escrever o seguinte comando: </p>
+<p> A parte de testes foi feita apenas como um exercício. Para compilar e executar os testes, é preciso ter o GoogleTest instalado. Em seguida, basta rodar o seguinte comando: </p>
 
 ```bash
 make tests MODO=testes 
