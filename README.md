@@ -2,7 +2,7 @@
 
 <p><b> Este programa tem como objetivo principal implementar uma versão mais simplificada do jogo Pac-Man baseando-se
 em princípios de orientação a objetos (OO). Além disso, a compilação e a geração de documentação são efetuadas
-de forma automatizada por meio de um Makefile, e há testes unitários do jogo realizados com GoogleTest. O projeto foi feito para a disciplina MAC0216: Técnicas de Programação I, ministrada no Instituto de Matemática e Estatística da USP </b></p>
+de forma automatizada por meio de um Makefile, e há testes unitários do jogo realizados com GoogleTest. O projeto foi feito para a disciplina MAC0216: Técnicas de Programação I, ministrada no Instituto de Matemática e Estatística da USP. </b></p>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
